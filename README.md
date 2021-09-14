@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vincentgong3mm
-- 👀 I’m interested in RESTful API, golang, Game Server.
+- 👀 I’m interested in RESTful API, golang, gRPC, mysql, C++, Game Server.
 - 🌱 I’m currently learning golang.
 
 <!---
